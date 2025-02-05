@@ -5,3 +5,5 @@ flask-sqlalchemy
 bcrypt
 psycopg2
 gunicorn
+flask_bcrypt
+
